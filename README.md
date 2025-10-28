@@ -6,7 +6,7 @@
 
 A simple library to manage tournament brackets (round-robin, single elimination, double elimination).
 
-It contains all the logic needed to manage tournaments.
+It contains all the logic needed to manage tournaments
 
 # Features
 
