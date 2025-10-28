@@ -80,3 +80,4 @@ It has been inspired by:
 - [Toornament](https://www.toornament.com/en_US/) (configuration, API and data format)
 - [Challonge's bracket generator](https://challonge.com/tournaments/bracket_generator)
 - [jQuery Bracket](http://www.aropupu.fi/bracket/) (feature examples)
+# brackets-manager.js
