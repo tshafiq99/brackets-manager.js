@@ -310,7 +310,3 @@ class MyStorage implements Storage {
 - [Getting Started Guide](https://drarig29.github.io/brackets-docs/getting-started/)
 - [Storage Guide](https://drarig29.github.io/brackets-docs/user-guide/storage/)
 - [Helpers Documentation](https://drarig29.github.io/brackets-docs/reference/manager/modules/helpers.html)
-
-## License
-
-ISC
