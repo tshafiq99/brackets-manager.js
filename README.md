@@ -311,22 +311,6 @@ class MyStorage implements Storage {
 - [Storage Guide](https://drarig29.github.io/brackets-docs/user-guide/storage/)
 - [Helpers Documentation](https://drarig29.github.io/brackets-docs/reference/manager/modules/helpers.html)
 
-## Contributing
-
-Contributions are welcome! Please ensure:
-- All tests pass (`npm test`)
-- Code is linted (`npm run lint`)
-- New features include tests
-- TypeScript types are properly defined
-
-## Credits
-
-This library was created to be used by [Nantarena](https://nantarena.net/) and was inspired by:
-
-- [Toornament](https://www.toornament.com/en_US/) (configuration, API and data format)
-- [Challonge's bracket generator](https://challonge.com/tournaments/bracket_generator)
-- [jQuery Bracket](http://www.aropupu.fi/bracket/) (feature examples)
-
 ## License
 
 ISC
